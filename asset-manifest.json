@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/sketch-book/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/sketch-book/static/js/main.570dd0a5.chunk.js",
+    "main.js.map": "/sketch-book/static/js/main.570dd0a5.chunk.js.map",
+    "runtime-main.js": "/sketch-book/static/js/runtime-main.04cf0cc5.js",
+    "runtime-main.js.map": "/sketch-book/static/js/runtime-main.04cf0cc5.js.map",
+    "static/js/2.8a35e28d.chunk.js": "/sketch-book/static/js/2.8a35e28d.chunk.js",
+    "static/js/2.8a35e28d.chunk.js.map": "/sketch-book/static/js/2.8a35e28d.chunk.js.map",
+    "static/js/3.0b7c69e6.chunk.js": "/sketch-book/static/js/3.0b7c69e6.chunk.js",
+    "static/js/3.0b7c69e6.chunk.js.map": "/sketch-book/static/js/3.0b7c69e6.chunk.js.map",
+    "index.html": "/sketch-book/index.html",
+    "precache-manifest.4c911ffc9c2038b4df4e496b0a20074f.js": "/sketch-book/precache-manifest.4c911ffc9c2038b4df4e496b0a20074f.js",
+    "service-worker.js": "/sketch-book/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/sketch-book/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.8a35e28d.chunk.js.LICENSE.txt": "/sketch-book/static/js/2.8a35e28d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04cf0cc5.js",
+    "static/js/2.8a35e28d.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.570dd0a5.chunk.js"
+  ]
+}
